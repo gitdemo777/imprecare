@@ -1,0 +1,20 @@
+ .main-menu{background: rgba(173, 173, 173, 0.8);}
+ .btn-effect:before, .feature-app-icon a, .screenshots-area .owl-nav div:hover, .screenshots-area  .owl-nav div.owl-prev, .acco-heading-icon.plus-icon, .member-social-icon ul li a:hover, .s-btn-active.btn-effect, #mainslider  .owl-dot.active, .testimonial-img span.icon-quote, .single-price.active:before, .subscribe input[type="submit"] {background:#3498DB}
+
+#accordion .accordion-heading a{background: #336d97 none repeat scroll 0 0;}
+.nav-menu:hover li a:hover, .slide-text  h2, .magic-line.nav-menu li.active a, .magic-line.nav-menu:hover li.active a:hover, #fetured-nav  li a:hover h5, #fetured-nav  li.active a h5, .feture-text ul li i, .whychoose-list ul li:hover span.icon, .whychoose-list ul li.choose-list-active span.icon, .price-list li i.fa-check, .footer-bottom.text-center a{color:#3498DB}
+
+.s-btn-active.btn-effect,  .magic-line.nav-menu li a, #mainslider  .owl-dot.active:before, .testimonial-img, .price-footer a:hover, .single-price.active  .price-footer a.btn-effect{border-color: #3498DB !important;}
+.subscribe input[type="email"]:focus, .subscribe input[type="submit"]{border-color: rgba(52, 152, 219, 0.5) !important;}
+.magic-line.nav-menu li a:before{border-bottom-color: #3498DB !important;}
+.download-area  .btn-effect:before, .single-download:hover, .subscribe input[type="submit"]:hover{background:rgba(31, 131, 198, 0.8) none repeat scroll 0 0}
+#magic-line2:before{border-top-color: #24c3f8 !important;}
+.section-saparator{border-top-color: #24c3f8 !important;}
+.section-saparator:before, .section-saparator:after{background:#24c3f8}
+.nav-tab{border-color: #24c3f8 !important;}
+#fetured-nav  li.active a .tab-icon svg path{fill: #3498DB;}
+.section-overlay.content-bg {
+  background: rgba(52, 152, 219, 0.8) none repeat scroll 0 0;
+}
+#fetured-nav li a:hover svg path, #fetured-nav  li.active a .tab-icon svg path{stroke:#3498DB}
+
